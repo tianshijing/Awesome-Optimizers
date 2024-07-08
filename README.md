@@ -1,4 +1,5 @@
 # Awesome-Optimizers
+![Logo](Fig/logo.jpg)
 
 ![Awesome](https://img.shields.io/badge/awesome-%E2%9C%94-ff69b4)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
