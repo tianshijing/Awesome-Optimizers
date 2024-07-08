@@ -3,11 +3,30 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-Welcome to my repository, a meticulously curated collection of optimization algorithms implemented in PyTorch, designed to cater to the diverse needs of the machine learning research community.
+Welcome to this repository, a meticulously curated collection of optimization algorithms implemented in PyTorch, designed to cater to the diverse needs of the machine learning research community.
 
 ## Introduction to the Repository
 
 In the realm of machine learning, the choice of an optimizer is as crucial as the architecture of the model itself. This repository aims to provide a comprehensive exploration of various optimization algorithms, with a focus on their implementation and application in PyTorch, facilitating researchers and practitioners in making informed decisions for their projects.
+
+### Awesome Optimizers
+
+<details>
+<summary><strong>Click to Expand</strong></summary>
+
+<h3>Awesome Optimizers</h3>
+
+Here is a list of some popular optimizers and their corresponding papers:
+
+| Optimizer Name | Paper |
+|----------------|-------|
+| SGD | [On the importance of initialization and momentum in deep learning](https://www.cs.toronto.edu/~hinton/absps/momentum.pdf) |
+| Adam | [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) |
+| RMSprop | [Lecture 6.5 - rmsprop, COURSERA: Neural Networks for Machine Learning](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) |
+| AdaGrad | [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf) |
+| AdaDelta | [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701) |
+
+</details>
 
 ### Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer
 
