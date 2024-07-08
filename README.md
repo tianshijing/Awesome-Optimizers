@@ -79,6 +79,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 
 **Procedure:**
 ![General Algorithm of Optimizer for DNNs](Fig/def.jpg)
+</details>
 
 ### Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer
 
