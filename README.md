@@ -119,7 +119,9 @@ Code: https://github.com/Westlake-AI/Backbone-vs-Optimizer
 
 ### Visualizing Performance Differences
 
-To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure ![Optimizer Accuracy](Fig/acc.jpg). This figure provides a clear visual representation of how different optimizers perform in different scenarios.
+To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure ![Optimizer Accuracy](Fig/acc.jpg)
+
+This figure provides a clear visual representation of how different optimizers perform in different scenarios.
 
 Additionally, I have categorized classic optimizers into four main types, as shown in the following image:
 
