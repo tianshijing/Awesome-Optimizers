@@ -1,6 +1,6 @@
 # Awesome-Optimizers
 
-![Awesome](https://img.shields.io/badge/awesome-%F0%9F%91%8D-ff69b4)
+![Awesome](https://img.shields.io/badge/awesome-%E2%9C%94-ff69b4?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green)
 ![GitHub stars](https://img.shields.io/github/stars/tianshijing/Awesome-optimizers?style=social)
