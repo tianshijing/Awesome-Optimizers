@@ -59,6 +59,31 @@ Here is a list of some popular optimizers and their corresponding papers:
 
 </details>
 
+### Optimizer Paradigm Definition
+
+<details>
+<summary>General Algorithm of Optimizer for DNNs</summary>
+
+**Algorithm 1: General Algorithm of Optimizer for DNNs**
+
+**Input:**
+- DNN parameters $\theta = \{\theta_l\}_{l=1}^{L}$
+- Initial learning rate $\text{lr}$
+- Weight decays $\omega = \{\omega_l\}_{l=1}^{L}$
+- Loss function $\mathcal{L}$
+- Dataset $\mathcal{D}$
+
+**Initialization:**
+- Parameters $\theta^{0} = \{\theta_{l}^{0}\}_{l=1}^{L}$
+- Learning rates $\{\alpha_i^0\}_{l=1}^{L} \leftarrow \text{lr}$
+
+**For each iteration $i = 1, 2, \dots, L$ (Loop over iterations):**
+- **For each layer $l = 1, 2, \dots, L$ (Loop over layers):**
+  - Compute gradients $\nabla\theta_{l}^{i-1} = \frac{\partial \mathcal{L}(\theta, \mathcal{D})}{\partial \theta_l}$ (Step 1)
+  - Estimate the gradients $g_{l}^{i}$ with $\nabla\theta_{l}^{i-1}$ and $\{g_{l}^{j}\}_{j=1}^{i-1}$ (Step 2)
+  - Calculate $\alpha_{l}^{i-1}$ with $\{\alpha_{l}^{j}\}_{j=1}^{i-1}$ and $\{g_{l}^{j}\}_{j=1}^{i}$ (Step 3)
+  - Update: $\theta_{l}^{i} \leftarrow \theta_{l}^{i-1} - \alpha_{l}^{i} \cdot \big( g_{l}^{i-1} + \omega_l \cdot \theta_{l}^{i-1}$ \big)$ (Step 4)
+
 ### Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer
 
 <details>
