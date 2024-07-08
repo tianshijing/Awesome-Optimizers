@@ -5,6 +5,8 @@
 
 Welcome to this repository, a meticulously curated collection of optimization algorithms implemented in PyTorch, designed to cater to the diverse needs of the machine learning research community.
 
+If this repository has been helpful to you, please consider giving it a ⭐️ to show your support. Thank you!☺️
+
 ## Introduction to the Repository
 
 In the realm of machine learning, the choice of an optimizer is as crucial as the architecture of the model itself. This repository aims to provide a comprehensive exploration of various optimization algorithms, with a focus on their implementation and application in PyTorch, facilitating researchers and practitioners in making informed decisions for their projects.
