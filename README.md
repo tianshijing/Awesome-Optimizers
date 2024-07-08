@@ -10,6 +10,15 @@ Welcome to this repository, a meticulously curated collection of optimization al
 
 If this repository has been helpful to you, please consider giving it a ⭐️ to show your support. Thank you! ☺️
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Awesome Optimizers](#awesome-optimizers)
+- [Optimizer Paradigm Definition](#optimizer-paradigm-definition)
+- [Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer](#our-latest-work-a-decades-battle-on-the-bias-of-vision-backbone-and-optimizer)
+- [Visualizing Performance Differences](#visualizing-performance-differences)
+- [Contribution](#contribution)
+
 ## Introduction
 
 In the realm of machine learning, the choice of an optimizer is as crucial as the architecture of the model itself. This repository aims to provide a comprehensive exploration of various optimization algorithms, with a focus on their implementation and application in PyTorch, facilitating researchers and practitioners in making informed decisions for their projects.
