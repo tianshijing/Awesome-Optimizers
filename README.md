@@ -5,7 +5,7 @@
 
 Welcome to this repository, a meticulously curated collection of optimization algorithms implemented in PyTorch, designed to cater to the diverse needs of the machine learning research community.
 
-If this repository has been helpful to you, please consider giving it a ⭐️ to show your support. Thank you!☺️
+If this repository has been helpful to you, please consider giving it a ⭐️ to show your support. Thank you! ☺️
 
 ## Introduction to the Repository
 
