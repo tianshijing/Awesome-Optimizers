@@ -21,7 +21,13 @@ If this repository has been helpful to you, please consider giving it a ⭐️ t
 
 ## Introduction
 
-In the realm of machine learning, the choice of an optimizer is as crucial as the architecture of the model itself. This repository aims to provide a comprehensive exploration of various optimization algorithms, with a focus on their implementation and application in PyTorch, facilitating researchers and practitioners in making informed decisions for their projects.
+**In the domain of machine learning, the selection of an appropriate optimizer is of equal significance to the architectural design of the model itself.**
+
+I have compiled an outstanding collection of optimizers from recent years, complete with intuitive roadmaps and tutorial notebooks. Additionally, I have provided further insights based on my involvement in related projects. I warmly welcome contributions to this project, including the latest optimizers, tutorial notebooks, or any other valuable resources that can benefit researchers in our community.
+
+I present a meticulously curated roadmap of optimizers, as depicted in the ![Optimizer's Roadmap](Fig/Awesome_optimizers.pdf), which is an excellent chronological compilation of optimization techniques. This roadmap is continuously updated to reflect the latest advancements. Should you identify any typographical errors or omissions in the referenced papers, please do not hesitate to open an issue or submit a pull request. Our ongoing survey is in the process of being updated, and this represents the most current iteration.
+
+For those seeking to explore the interconnections among relevant papers, we recommend utilizing [Connected Papers](https://www.connectedpapers.com/), a tool that visualizes the academic landscape through a graph representation. To export a paper's BibTeX citation, consult the paper's [arXiv](https://arxiv.org/) or [Semantic Scholar](https://www.semanticscholar.org/) entry for a professionally formatted reference.
 
 ### Awesome Optimizers
 
@@ -113,7 +119,7 @@ Code: https://github.com/Westlake-AI/Backbone-vs-Optimizer
 
 To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure ![Optimizer Accuracy](Fig/acc.jpg). This figure provides a clear visual representation of how different optimizers perform in different scenarios.
 
-Additionally, we have categorized classic optimizers into four main types, as shown in the following image:
+Additionally, I have categorized classic optimizers into four main types, as shown in the following image:
 
 ![Optimizer Categories](Fig/optimizer.jpg)
 
