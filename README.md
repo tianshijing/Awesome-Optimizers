@@ -113,12 +113,11 @@ The main maintainer is Juanxi Tian (@tianshijing).
 
 <p align="center">
   <a href="https://github.com/tianshijing">
-    <img src="https://github.com/tianshijing.png" width="100" height="100" alt="Juanxi Tian">
+    <img src="https://github.com/tianshijing.png" style="border-radius: 50%; width: 100px; height: 100px;" alt="Juanxi Tian">
   </a>
 </p>
 
 Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-Optimizer can become a more mature toolbox in the machine learning community.
 
-[Back to Top]
 ---
 
