@@ -2,9 +2,9 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![GitHub downloads](https://img.shields.io/github/downloads/yourusername/yourrepository/total)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository.svg?style=social&label=Star)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/yourrepository.svg?style=social&label=Watch)
+![GitHub downloads](https://img.shields.io/github/downloads/tianshijing/Awesome-optimizers/total)
+![GitHub stars](https://img.shields.io/github/stars/tianshijing/Awesome-optimizers.svg?style=social&label=Star)
+![GitHub watchers](https://img.shields.io/github/watchers/tianshijing/Awesome-optimizers.svg?style=social&label=Watch)
 
 Welcome to our repository, a meticulously curated collection of optimization algorithms implemented in PyTorch, designed to cater to the diverse needs of the machine learning research community.
 
