@@ -1,5 +1,8 @@
 # Awesome-optimizer-PyTorch
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 Welcome to our repository, a meticulously curated collection of optimization algorithms implemented in PyTorch, designed to cater to the diverse needs of the machine learning research community.
 
 ## Introduction to the Repository
@@ -26,11 +29,18 @@ We hope this work can inspire the community to further question the long-held as
 
 ### Visualizing Performance Differences
 
-To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure **Fig/acc.jpg**. This figure provides a clear visual representation of how different optimizers perform in different scenarios.
+To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure ![Optimizer Accuracy](Fig/acc.jpg). This figure provides a clear visual representation of how different optimizers perform in different scenarios.
 
-Additionally, we have categorized classic optimizers into four main types, as shown in **Fig/optimizer.jpg**. This classification helps in understanding the underlying principles and applications of these optimizers.
+Additionally, we have categorized classic optimizers into four main types, as shown in the following image:
 
-We invite you to explore our repository and leverage our findings to enhance your machine learning projects. Your feedback and contributions are highly appreciated!
+![Optimizer Categories](Fig/optimizer.jpg)
+
+This classification helps in understanding the underlying principles and applications of these optimizers.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
