@@ -64,7 +64,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 ### Optimizer Paradigm Definition
 
 <details>
-<summary>General Algorithm of Optimizer for DNNs</summary>
+<summary><strong>Click to Expand</strong></summary>
 
 **Algorithm: General Algorithm of Optimizer for DNNs**
 
