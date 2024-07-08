@@ -107,10 +107,18 @@ Additionally, we have categorized classic optimizers into four main types, as sh
 
 This classification helps in understanding the underlying principles and applications of these optimizers.
 
+### Contribution
 
-## License
+The main maintainer is Juanxi Tian (@tianshijing). 
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+<p align="center">
+  <a href="https://github.com/tianshijing">
+    <img src="https://github.com/tianshijing.png" width="100" height="100" alt="Juanxi Tian">
+  </a>
+</p>
 
+Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-Optimizer can become a more mature toolbox in the machine learning community.
+
+[Back to Top]
 ---
 
