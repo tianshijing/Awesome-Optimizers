@@ -78,12 +78,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 - Learning rates $\{\alpha_i^0\}_{l=1}^{L} \leftarrow \text{lr}$
 
 **Procedure:**
-1. **For each iteration $i = 1, 2, \dots, L$ (Loop over iterations):**
-   - **For each layer $l = 1, 2, \dots, L$ (Loop over layers):**
-     - **Step 1:** Compute gradients $\nabla\theta_{l}^{i-1} = \frac{\partial \mathcal{L}(\theta, \mathcal{D})}{\partial \theta_l}$
-     - **Step 2:** Estimate the gradients $g_{l}^{i}$ with $\nabla\theta_{l}^{i-1}$ and $\{g_{l}^{j}\}_{j=1}^{i-1}$
-     - **Step 3:** Calculate $\alpha_{l}^{i-1}$ with $\{\alpha_{l}^{j}\}_{j=1}^{i-1}$ and $\{g_{l}^{j}\}_{j=1}^{i}$
-     - **Step 4:** Update: $\theta_{l}^{i} \leftarrow \theta_{l}^{i-1} - \alpha_{l}^{i} \cdot \big( g_{l}^{i-1} + \omega_l \cdot \theta_{l}^{i-1}$ \big)$
+![General Algorithm of Optimizer for DNNs](Fig/def.jpg)
 
 ### Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer
 
