@@ -1,13 +1,16 @@
-# Awesome-optimizer-PyTorch
+# Awesome-Optimizers
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Awesome](https://img.shields.io/badge/awesome-%E2%9C%94-ff69b4)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green)
+![GitHub stars](https://img.shields.io/github/stars/tianshijing/Awesome-optimizers?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tianshijing/Awesome-optimizers?style=social)
 
 Welcome to this repository, a meticulously curated collection of optimization algorithms implemented in PyTorch, designed to cater to the diverse needs of the machine learning research community.
 
 If this repository has been helpful to you, please consider giving it a ⭐️ to show your support. Thank you! ☺️
 
-## Introduction to the Repository
+## Introduction
 
 In the realm of machine learning, the choice of an optimizer is as crucial as the architecture of the model itself. This repository aims to provide a comprehensive exploration of various optimization algorithms, with a focus on their implementation and application in PyTorch, facilitating researchers and practitioners in making informed decisions for their projects.
 
@@ -113,7 +116,7 @@ The main maintainer is Juanxi Tian (@tianshijing).
 
 <p align="center">
   <a href="https://github.com/tianshijing">
-    <img src="https://github.com/tianshijing.png" style="border-radius: 50%; width: 100px; height: 100px;" alt="Juanxi Tian">
+    <img src="https://github.com/tianshijing.png" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;" alt="Juanxi Tian">
   </a>
 </p>
 
