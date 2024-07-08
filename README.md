@@ -131,7 +131,7 @@ This classification helps in understanding the underlying principles and applica
 
 ### Contribution
 
-The main maintainer is Juanxi Tian (@tianshijing). 
+The main maintainer is Juanxi Tian ([@Juanxi Tian](https://github.com/tianshijing)). 
 
 <p align="center">
   <a href="https://github.com/tianshijing">
