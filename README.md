@@ -105,7 +105,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 
 **Procedure:**
 <p align="center">
-  <img src="Fig/def.jpg" width="300" height="200" alt="General Algorithm of Optimizer for DNNs">
+  <img src="Fig/def.jpg" width="500" height="500" alt="General Algorithm of Optimizer for DNNs">
 </p>
 </details>
 
@@ -129,15 +129,13 @@ Code: https://github.com/Westlake-AI/Backbone-vs-Optimizer
 <summary><strong>Click to Expand</strong></summary>
 
 To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure ![Optimizer Accuracy](Fig/acc.jpg)
-<p align="center">
-  <img src="Fig/acc.jpg" width="300" height="200" alt="Optimizers Accuracy">
-</p>
+
 This figure provides a clear visual representation of how different optimizers perform in different scenarios.
 
 Additionally, I have categorized classic optimizers into four main types, as shown in the following image:
 
 <p align="center">
-  <img src="Fig/optimizer.jpg" width="300" height="200" alt="Optimizer Categories">
+  <img src="Fig/optimizer.jpg" width="600" height="400" alt="Optimizer Categories">
 </p>
 
 This classification helps in understanding the underlying principles and applications of these optimizers.
