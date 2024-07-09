@@ -5,6 +5,7 @@
 </p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianshijing%2FAwesome-optimizers&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green)
 ![GitHub stars](https://img.shields.io/github/stars/tianshijing/Awesome-optimizers?style=social)
