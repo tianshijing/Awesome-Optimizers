@@ -117,6 +117,11 @@ Here is a list of some popular optimizers and their corresponding papers:
 
 <h3>A Decade’s Battle on the Bias of Vision Backbone and Optimizer</h3>
 
+[Siyuan Li](https://lupin1998.github.io/)<sup>\*,1,2</sup>, [Juanxi Tian](https://openreview.net/profile?id=~Juanxi_Tian1)<sup>\*,1</sup>, [Zedong Wang](https://zedongwang.netlify.app/)<sup>\*,1</sup>, [Luyuan Zhang](https://openreview.net/profile?id=~Luyuan_Zhang1)<sup>1</sup>, [Zicheng Liu](https://pone7.github.io/)<sup>1</sup>, [Chen Tan](https://chengtan9907.github.io/)<sup>1</sup>, [Weiyang Jin](https://openreview.net/profile?id=~Weiyang_Jin1)<sup>1</sup>, [Lei Xin](https://openreview.net/profile?id=~Lei_Xin2)<sup>1</sup>, [Yang Liu](https://scholar.google.co.id/citations?user=t1emSE0AAAAJ&hl=zh-CN)<sup>2</sup>, [Baigui Sun](https://scholar.google.co.id/citations?user=ZNhTHywAAAAJ&hl=zh-CN)<sup>2</sup>, [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)<sup>†,1</sup>
+
+<sup>1</sup>[Westlake University](https://westlake.edu.cn/), <sup>2</sup>[Damo Academy](https://damo.alibaba.com/?language=en)
+</div>
+
 **Abstract**  The past decade has witnessed rapid progress in vision backbones and an evolution of deep optimizers from SGD to Adam variants. This paper, for the first time, delves into the relationship between vision network design and optimizer selection. We conduct comprehensive benchmarking studies on mainstream vision backbones and widely-used optimizers, revealing an intriguing phenomenon termed backbone-optimizer coupling bias (BOCB). Notably, classical ConvNets, such as VGG and ResNet, exhibit a marked co-dependency with SGD, while modern architectures, including ViTs and ConvNeXt, demonstrate a strong coupling with optimizers with adaptive learning rates like AdamW. More importantly, we uncover the adverse impacts of BOCB on popular backbones in real-world practice, such as additional tuning time and resource overhead, which indicates the remaining challenges and even potential risks. Through in-depth analysis and apples-to-apples comparisons, however, we surprisingly observe that specific types of network architecture can significantly mitigate BOCB, which might serve as promising guidelines for future backbone design. We hope this work as a kick-start can inspire the community to further question the long-held assumptions on vision backbones and optimizers, consider BOCB in future studies, and thus contribute to more robust, efficient, and effective vision systems. It is time to go beyond those usual choices and confront the elephant in the room. The source code and models are publicly available.
 
 **Backbone-Optimizer Coupling Bias (BOCB)** is a phenomenon we observed during the bench-marking, which arises from the intricate interplay between the design principles of vision backbones and the inherent properties of optimizers.
@@ -154,3 +159,4 @@ The main maintainer is Juanxi Tian ([@Juanxi Tian](https://github.com/tianshijin
 
 Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-Optimizers can become a more mature toolbox in the machine learning community.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
