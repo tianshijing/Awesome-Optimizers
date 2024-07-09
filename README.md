@@ -40,7 +40,7 @@ For those seeking to explore the interconnections among relevant papers, we reco
 <details>
 <summary><strong>Click to Expand</strong></summary>
 
-<h3>Awesome Optimizers</h3>
+<h3>Awesome Optimizers List</h3>
 
 Here is a list of some popular optimizers and their corresponding papers:
 
@@ -105,7 +105,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 
 **Procedure:**
 <p align="center">
-  <img src="Fig/def.jpg" width="500" height="300" alt="General Algorithm of Optimizer for DNNs">
+  <img src="Fig/def.jpg" width="350" height="200" alt="General Algorithm of Optimizer for DNNs">
 </p>
 </details>
 
