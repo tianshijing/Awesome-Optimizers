@@ -34,6 +34,7 @@ I present a meticulously curated roadmap of optimizers, as depicted in the ![Opt
 This roadmap is continuously updated to reflect the latest advancements. Should you identify any errors or omissions in this repository, please do not hesitate to open an issue or submit a pull request. Our ongoing survey is in the process of being updated, and this represents the most current iteration.
 
 For those seeking to explore the interconnections among relevant papers, we recommend utilizing [Connected Papers](https://www.connectedpapers.com/), a tool that visualizes the academic landscape through a graph representation. To export a paper's BibTeX citation, consult the paper's [arXiv](https://arxiv.org/) or [Semantic Scholar](https://www.semanticscholar.org/) entry for a professionally formatted reference.
+--
 
 ### Awesome Optimizers
 
@@ -84,6 +85,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 | SGDP | [Slowing Down the Weight Norm Increase in Momentum-based Optimizers](https://arxiv.org/abs/2006.08217) | 2020 |
 
 </details>
+--
 
 ### Optimizer Paradigm Definition
 
@@ -108,6 +110,7 @@ Here is a list of some popular optimizers and their corresponding papers:
   <img src="Fig/def.jpg" width="350" height="200" alt="General Algorithm of Optimizer for DNNs">
 </p>
 </details>
+--
 
 ### Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer
 
@@ -122,6 +125,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 
 Code: https://github.com/Westlake-AI/Backbone-vs-Optimizer
 </details>
+--
 
 ### Visualizing Performance Differences
 
@@ -140,6 +144,7 @@ Additionally, I have categorized classic optimizers into four main types, as sho
 
 This classification helps in understanding the underlying principles and applications of these optimizers.
 </details>
+--
 
 ### Contribution
 
@@ -152,6 +157,4 @@ The main maintainer is Juanxi Tian ([@Juanxi Tian](https://github.com/tianshijin
 </p>
 
 Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-Optimizer can become a more mature toolbox in the machine learning community.
-
----
 
