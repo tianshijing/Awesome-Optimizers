@@ -105,7 +105,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 
 **Procedure:**
 <p align="center">
-  <img src="Fig/def.jpg" width="500" height="500" alt="General Algorithm of Optimizer for DNNs">
+  <img src="Fig/def.jpg" width="500" height="300" alt="General Algorithm of Optimizer for DNNs">
 </p>
 </details>
 
