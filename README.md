@@ -4,8 +4,8 @@
   <img src="Fig/logo.jpg" alt="Awesome-Optimizers Logo" style="width: 200px; height: auto;">
 </p>
 
-![Awesome](https://img.shields.io/badge/awesome-%E2%9C%94-ff69b4)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green)
 ![GitHub stars](https://img.shields.io/github/stars/tianshijing/Awesome-optimizers?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/tianshijing/Awesome-optimizers?style=social)
