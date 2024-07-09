@@ -151,5 +151,5 @@ The main maintainer is Juanxi Tian ([@Juanxi Tian](https://github.com/tianshijin
   </a>
 </p>
 
-Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-Optimizer can become a more mature toolbox in the machine learning community.
+Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-Optimizers can become a more mature toolbox in the machine learning community.
 
