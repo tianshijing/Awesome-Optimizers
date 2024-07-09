@@ -27,11 +27,11 @@ If this repository has been helpful to you, please consider giving it a ⭐️ t
 
 **In the domain of machine learning, the selection of an appropriate optimizer is of equal significance to the architectural design of the model itself.**
 
-I have compiled an outstanding collection of optimizers from recent years, complete with intuitive roadmaps and tutorial notebooks. Additionally, I have provided further insights based on my involvement in related projects. I warmly welcome contributions to this project, including the latest optimizers, tutorial notebooks, or any other valuable resources that can benefit researchers in our community.
+I have meticulously assembled a compendium of preeminent optimizers from the recent scholarly landscape, complemented by lucid roadmaps and pedagogical tutorial notebooks. My insights, garnered from active engagement in pertinent projects, further enrich this repository. I warmly welcome contributions to this project, including the latest optimizers, tutorial notebooks, or any other valuable resources that can benefit researchers in our community.
 
 I present a meticulously curated roadmap of optimizers, as depicted in the ![Optimizer's Roadmap](Fig/Awesome_optimizers.jpg)
 
-This roadmap is continuously updated to reflect the latest advancements. Should you identify any typographical errors or omissions in the referenced papers, please do not hesitate to open an issue or submit a pull request. Our ongoing survey is in the process of being updated, and this represents the most current iteration.
+This roadmap is continuously updated to reflect the latest advancements. Should you identify any errors or omissions in this repository, please do not hesitate to open an issue or submit a pull request. Our ongoing survey is in the process of being updated, and this represents the most current iteration.
 
 For those seeking to explore the interconnections among relevant papers, we recommend utilizing [Connected Papers](https://www.connectedpapers.com/), a tool that visualizes the academic landscape through a graph representation. To export a paper's BibTeX citation, consult the paper's [arXiv](https://arxiv.org/) or [Semantic Scholar](https://www.semanticscholar.org/) entry for a professionally formatted reference.
 
@@ -104,7 +104,9 @@ Here is a list of some popular optimizers and their corresponding papers:
 - Learning rates $\{\alpha_i^0\}_{l=1}^{L} \leftarrow \text{lr}$
 
 **Procedure:**
-![General Algorithm of Optimizer for DNNs](Fig/def.jpg)
+<p align="center">
+  <img src="Fig/def.jpg" width="300" height="200" alt="General Algorithm of Optimizer for DNNs">
+</p>
 </details>
 
 ### Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer
@@ -114,7 +116,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 
 <h3>A Decade’s Battle on the Bias of Vision Backbone and Optimizer</h3>
 
-The past decade has witnessed rapid progress in vision backbones and an evolution of deep optimizers from SGD to Adam variants. This paper, for the first time, delves into the relationship between vision network design and optimizer selection. We conduct comprehensive benchmarking studies on mainstream vision backbones and widely-used optimizers, revealing an intriguing phenomenon termed backbone-optimizer coupling bias (BOCB). Notably, classical ConvNets, such as VGG and ResNet, exhibit a marked co-dependency with SGD, while modern architectures, including ViTs and ConvNeXt, demonstrate a strong coupling with optimizers with adaptive learning rates like AdamW. More importantly, we uncover the adverse impacts of BOCB on popular backbones in real-world practice, such as additional tuning time and resource overhead, which indicates the remaining challenges and even potential risks. Through in-depth analysis and apples-to-apples comparisons, however, we surprisingly observe that specific types of network architecture can significantly mitigate BOCB, which might serve as promising guidelines for future backbone design. We hope this work as a kick-start can inspire the community to further question the long-held assumptions on vision backbones and optimizers, consider BOCB in future studies, and thus contribute to more robust, efficient, and effective vision systems. It is time to go beyond those usual choices and confront the elephant in the room. The source code and models are publicly available.
+**Abstract**  The past decade has witnessed rapid progress in vision backbones and an evolution of deep optimizers from SGD to Adam variants. This paper, for the first time, delves into the relationship between vision network design and optimizer selection. We conduct comprehensive benchmarking studies on mainstream vision backbones and widely-used optimizers, revealing an intriguing phenomenon termed backbone-optimizer coupling bias (BOCB). Notably, classical ConvNets, such as VGG and ResNet, exhibit a marked co-dependency with SGD, while modern architectures, including ViTs and ConvNeXt, demonstrate a strong coupling with optimizers with adaptive learning rates like AdamW. More importantly, we uncover the adverse impacts of BOCB on popular backbones in real-world practice, such as additional tuning time and resource overhead, which indicates the remaining challenges and even potential risks. Through in-depth analysis and apples-to-apples comparisons, however, we surprisingly observe that specific types of network architecture can significantly mitigate BOCB, which might serve as promising guidelines for future backbone design. We hope this work as a kick-start can inspire the community to further question the long-held assumptions on vision backbones and optimizers, consider BOCB in future studies, and thus contribute to more robust, efficient, and effective vision systems. It is time to go beyond those usual choices and confront the elephant in the room. The source code and models are publicly available.
 
 **Backbone-Optimizer Coupling Bias (BOCB)** is a phenomenon we observed during the bench-marking, which arises from the intricate interplay between the design principles of vision backbones and the inherent properties of optimizers.
 
@@ -123,15 +125,23 @@ Code: https://github.com/Westlake-AI/Backbone-vs-Optimizer
 
 ### Visualizing Performance Differences
 
-To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure ![Optimizer Accuracy](Fig/acc.jpg)
+<details>
+<summary><strong>Click to Expand</strong></summary>
 
+To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure ![Optimizer Accuracy](Fig/acc.jpg)
+<p align="center">
+  <img src="Fig/acc.jpg" width="300" height="200" alt="Optimizers Accuracy">
+</p>
 This figure provides a clear visual representation of how different optimizers perform in different scenarios.
 
 Additionally, I have categorized classic optimizers into four main types, as shown in the following image:
 
-![Optimizer Categories](Fig/optimizer.jpg)
+<p align="center">
+  <img src="Fig/optimizer.jpg" width="300" height="200" alt="Optimizer Categories">
+</p>
 
 This classification helps in understanding the underlying principles and applications of these optimizers.
+</details>
 
 ### Contribution
 
