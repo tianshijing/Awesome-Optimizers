@@ -147,7 +147,7 @@ The main maintainer is Juanxi Tian ([@Juanxi Tian](https://github.com/tianshijin
 
 <p align="center">
   <a href="https://github.com/tianshijing">
-    <img src="https://github.com/tianshijing.png" style="border-radius: 50%;" alt="Juanxi Tian">
+    <img src="https://github.com/tianshijing.png" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" alt="Juanxi Tian">
   </a>
 </p>
 
