@@ -160,4 +160,4 @@ The main maintainer is Juanxi Tian ([@Juanxi Tian](https://github.com/tianshijin
 
 Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-Optimizers can become a more mature toolbox in the machine learning community.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">[<a href="#top">back to top</a>]</p>
