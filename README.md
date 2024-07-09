@@ -145,9 +145,17 @@ This classification helps in understanding the underlying principles and applica
 
 The main maintainer is Juanxi Tian ([@Juanxi Tian](https://github.com/tianshijing)). 
 
+<style>
+.circular-image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+</style>
+
 <p align="center">
   <a href="https://github.com/tianshijing">
-    <img src="https://github.com/tianshijing.png" style="border-radius: 50%; width: 100px; height: 100px;" alt="Juanxi Tian">
+    <img src="https://github.com/tianshijing.png" class="circular-image" alt="Juanxi Tian">
   </a>
 </p>
 
