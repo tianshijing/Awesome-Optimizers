@@ -24,7 +24,7 @@ Also welcome to know **Awesome-Visual-Backbone** [Awesome-Visual-Backbone](https
 - [Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer](#our-latest-work-a-decades-battle-on-the-bias-of-vision-backbone-and-optimizer)
 - [Benchmark](#benchmark)
 - [Contribution](#contribution)
-
+- [Recommended Hyperparameter Settings](#recommended-hyperparameter-settings)
 ## Introduction
 
 **In the domain of machine learning, the selection of an appropriate optimizer is of equal significance to the architectural design of the model itself.**
@@ -139,7 +139,11 @@ Code: https://github.com/Westlake-AI/Backbone-vs-Optimizer
 
 To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure ![Optimizer Accuracy](Fig/acc.jpg)
 
-This figure provides a clear visual representation of how different optimizers perform in different scenarios.
+and
+
+![Additional Optimizer Accuracy](Fig/acc2.jpg)
+
+These figures provides clear visual representation of how different optimizers perform in different scenarios.
 
 Additionally, I have categorized classic optimizers into four main types, as shown in the following image:
 
@@ -149,6 +153,15 @@ Additionally, I have categorized classic optimizers into four main types, as sho
 
 This classification helps in understanding the underlying principles and applications of these optimizers.
 </details>
+
+## Recommended Hyperparameter Settings
+
+Herein, we present a set of recommended hyperparameters for use under various visual backbone scenarios. Please note that these suggestions are based on extensive research and empirical findings, and should be considered a useful starting point rather than a one-size-fits-all solution. As with any machine learning application, the optimal hyperparameters may vary depending on the specific characteristics of your dataset and the computational resources available to you. We encourage practitioners to use these recommendations as a foundation and to further fine-tune them to suit their unique requirements and constraints.
+
+![Optimizer Hyperparameter Setting](Fig/setting.jpg)
+
+![Optimizer Hyperparameter Setting](Fig/setting2.jpg)
+
 
 ## Contribution
 
