@@ -21,7 +21,7 @@ If this repository has been helpful to you, please consider giving it a ⭐️ t
 - [Awesome Optimizers](#awesome-optimizers)
 - [Optimizer Paradigm Definition](#optimizer-paradigm-definition)
 - [Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer](#our-latest-work-a-decades-battle-on-the-bias-of-vision-backbone-and-optimizer)
-- [Visualizing Performance Differences](#visualizing-performance-differences)
+- [Benchmark](#benchmark)
 - [Contribution](#contribution)
 
 ## Introduction
@@ -131,7 +131,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 Code: https://github.com/Westlake-AI/Backbone-vs-Optimizer
 </details>
 
-## Visualizing Performance Differences
+## Benchmark
 
 <details>
 <summary><strong>Click to Expand</strong></summary>
