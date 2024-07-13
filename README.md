@@ -15,6 +15,7 @@ Welcome to this repository, a meticulously curated collection of optimization al
 
 If this repository has been helpful to you, please consider giving it a ⭐️ to show your support. Thank you! ☺️
 
+Also welcome to know **Awesome-Visual-Backbone** [Awesome-Visual-Backbone](https://github.com/tianshijing/Awesome-Visual-Backbone).
 ## Table of Contents
 
 - [Introduction](#introduction)
