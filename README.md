@@ -155,13 +155,15 @@ This classification helps in understanding the underlying principles and applica
 </details>
 
 ## Recommended Hyperparameter Settings
+<details>
+<summary><strong>Click to Expand</strong></summary>
 
 Herein, we present a set of recommended hyperparameters for use under various visual backbone scenarios. Please note that these suggestions are based on extensive research and empirical findings, and should be considered a useful starting point rather than a one-size-fits-all solution. As with any machine learning application, the optimal hyperparameters may vary depending on the specific characteristics of your dataset and the computational resources available to you. We encourage practitioners to use these recommendations as a foundation and to further fine-tune them to suit their unique requirements and constraints.
 
 ![Optimizer Hyperparameter Setting](Fig/setting.jpg)
 
 ![Optimizer Hyperparameter Setting](Fig/setting2.jpg)
-
+</details>
 
 ## Contribution
 
