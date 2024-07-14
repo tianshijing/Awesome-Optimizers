@@ -19,6 +19,7 @@ If this repository has been helpful to you, please consider giving it a ⭐️ t
 - [Optimizer Paradigm Definition](#optimizer-paradigm-definition)
 - [Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer](#our-latest-work-a-decades-battle-on-the-bias-of-vision-backbone-and-optimizer)
 - [Benchmark](#benchmark)
+- [Four categories of optimizers](#four_categories_of_optimizers)
 - [Recommended Hyperparameter Settings](#recommended-hyperparameter-settings)
 - [Contribution](#contribution)
 ## Introduction
@@ -133,6 +134,7 @@ Code: https://github.com/Westlake-AI/Backbone-vs-Optimizer
 <details>
 <summary><strong>Click to Expand</strong></summary>
 
+### Benchmark of the universal Vision Backbone
 To illustrate the performance differences of 20 optimizers across various vision backbones under optimal parameter settings, we have included the figure ![Optimizer Accuracy](Fig/acc.jpg)
 
 and
@@ -141,7 +143,43 @@ and
 
 These figures provides clear visual representation of how different optimizers perform in different scenarios.
 
-Additionally, I have categorized classic optimizers into four main types, as shown in the following image:
+### Benchmark of the LMFlow
+In LMFlow, I have contributed a customizable optimization fine-tuning feature, enabling you to freely select an optimizer for testing, with the intention to incorporate additional optimization techniques in forthcoming updates.  
+[custom_optimizers](https://github.com/OptimalScale/LMFlow/blob/main/scripts/run_finetune_with_custom_optim.sh)
+Below is a comprehensive Benchmark table detailing the fine-tuning of GPT2 with various optimizers on the alpaca dataset (The default hyperparameter setting is num_epoch=0.1. For reference only.). 
+  | Optimizer Name | Train Loss |
+  |----------------|------------|
+  | RMSprop        | 2.4016     |
+  | LION-32bit     | 2.4041     |
+  | Adam           | 2.4292     |
+  | AdamP          | 2.4295     |
+  | AdamW          | 2.4469     |
+  | AdaFactor      | 2.4543     |
+  | AdaBound       | 2.4547     |
+  | AdamWScheduleFree       | 2.4677     |
+  | Adan           | 2.5063     |
+  | NAdam          | 2.5569     |
+  | AdaBelief      | 2.5857     |
+  | AdaMax         | 2.5924     |
+  | RAdam          | 2.6104     |
+  | AdaDelta       | 2.6298     |
+  | AdaGrad        | 2.8657     |
+  | Yogi           | 2.9314     |
+  | NovoGrad       | 3.1071     |
+  | Sophia         | 3.1517     |
+  | LAMB           | 3.2350     |
+  | LARS           | 3.3329     |
+  | SGDScheduleFree        | 3.3541     |
+  | SGDP           | 3.3567     |
+  | SGD            | 3.3734     |
+
+</details>
+
+## Four categories of optimizers
+<details>
+<summary><strong>Click to Expand</strong></summary>
+
+I have categorized classic optimizers into four main types, as shown in the following image:
 
 <p align="center">
   <img src="Fig/optimizer.jpg" width="600" height="400" alt="Optimizer Categories">
