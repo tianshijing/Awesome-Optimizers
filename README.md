@@ -36,9 +36,9 @@ This roadmap is continuously updated to reflect the latest advancements. Should 
 For those seeking to explore the interconnections among relevant papers, we recommend utilizing [Connected Papers](https://www.connectedpapers.com/), a tool that visualizes the academic landscape through a graph representation. To export a paper's BibTeX citation, consult the paper's [arXiv](https://arxiv.org/) or [Semantic Scholar](https://www.semanticscholar.org/) entry for a professionally formatted reference.
 
 ## Awesome Optimizers
-
+<!-- 
 <details>
-<summary><strong>Click to Expand</strong></summary>
+<summary><strong>Click to Expand</strong></summary>-->
 
 <h3>Awesome Optimizers List</h3>
 
