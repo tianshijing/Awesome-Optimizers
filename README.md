@@ -8,14 +8,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftianshijing%2FAwesome-optimizers&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green)
-![GitHub stars](https://img.shields.io/github/stars/tianshijing/Awesome-Optimizers?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tianshijing/Awesome-Optimizers?style=social)
-
 Welcome to this repository, a meticulously curated collection of optimization algorithms implemented in PyTorch, designed to cater to the diverse needs of the machine learning research community.
 
 If this repository has been helpful to you, please consider giving it a ⭐️ to show your support. Thank you! ☺️
 
-Also welcome to know **Awesome-Visual-Backbone** [Awesome-Visual-Backbone](https://github.com/tianshijing/Awesome-Visual-Backbone).
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -23,8 +19,8 @@ Also welcome to know **Awesome-Visual-Backbone** [Awesome-Visual-Backbone](https
 - [Optimizer Paradigm Definition](#optimizer-paradigm-definition)
 - [Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer](#our-latest-work-a-decades-battle-on-the-bias-of-vision-backbone-and-optimizer)
 - [Benchmark](#benchmark)
-- [Contribution](#contribution)
 - [Recommended Hyperparameter Settings](#recommended-hyperparameter-settings)
+- [Contribution](#contribution)
 ## Introduction
 
 **In the domain of machine learning, the selection of an appropriate optimizer is of equal significance to the architectural design of the model itself.**
