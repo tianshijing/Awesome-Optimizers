@@ -19,7 +19,7 @@ If this repository has been helpful to you, please consider giving it a ⭐️ t
 - [Optimizer Paradigm Definition](#optimizer-paradigm-definition)
 - [Our Latest Work: A Decade’s Battle on the Bias of Vision Backbone and Optimizer](#our-latest-work-a-decades-battle-on-the-bias-of-vision-backbone-and-optimizer)
 - [Benchmark](#benchmark)
-- [Four categories of optimizers](#four_categories_of_optimizers)
+- [Four categories of optimizers](#four-categories-of-optimizers)
 - [Recommended Hyperparameter Settings](#recommended-hyperparameter-settings)
 - [Contribution](#contribution)
 ## Introduction
