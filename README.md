@@ -27,9 +27,9 @@ If this repository has been helpful to you, please consider giving it a ⭐️ t
 
 **In the domain of machine learning, the selection of an appropriate optimizer is of equal significance to the architectural design of the model itself.**
 
-I have meticulously assembled a compendium of preeminent optimizers from the recent scholarly landscape, complemented by lucid roadmaps and pedagogical tutorial notebooks. My insights, garnered from active engagement in pertinent projects, further enrich this repository. I warmly welcome contributions to this project, including the latest optimizers, tutorial notebooks, or any other valuable resources that can benefit researchers in our community.
+We have meticulously assembled a compendium of preeminent optimizers from the recent scholarly landscape, complemented by lucid roadmaps and pedagogical tutorial notebooks. Our insights, garnered from active engagement in pertinent projects, further enrich this repository. We warmly welcome contributions to this project, including the latest optimizers, tutorial notebooks, or any other valuable resources that can benefit researchers in our community.
 
-I present a meticulously curated roadmap of optimizers, as depicted in the ![Optimizer's Roadmap](Fig/Awesome_optimizers.jpg)
+We present a meticulously curated roadmap of optimizers, as depicted in the ![Optimizer's Roadmap](Fig/Awesome_optimizers.jpg)
 
 This roadmap is continuously updated to reflect the latest advancements. Should you identify any errors or omissions in this repository, please do not hesitate to open an issue or submit a pull request. Our ongoing survey is in the process of being updated, and this represents the most current iteration.
 
