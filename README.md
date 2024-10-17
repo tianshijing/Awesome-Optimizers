@@ -84,6 +84,7 @@ Here is a list of some popular optimizers and their corresponding papers:
 | CAME | [CAME: Confidence-guided Adaptive Memory Efficient Optimization](https://arxiv.org/abs/2307.02047) | 2023 | Adaptive and memory-efficient; improves optimization with confidence guidance. |
 | Sophia | [Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://arxiv.org/abs/2305.14342) | 2023 | Scalable second-order optimizer; efficient for large-scale pre-training. |
 | SVRG | [A Coefficient Makes SVRG Effective](https://arxiv.org/abs/2311.05589) | 2023 | Adaptive and memory-efficient, enhancing optimization with a confidence-guided adjustment of variance reduction strength. |
+| Prodigy | [Prodigy: An Expeditiously Adaptive Parameter-Free Learner](https://arxiv.org/abs/2306.06101) | 2024 | Prodigy is an adaptive, parameter-free optimizer that dynamically adjusts the learning rate by accurately estimating the distance to the optimal solution, significantly improving convergence speed and solution quality. |
 | Adam-mini | [Adam-mini: Use Fewer Learning Rates To Gain More](https://arxiv.org/abs/2406.16793) | 2024 | Reduces the number of learning rates; simplifies hyperparameter tuning. |
 </details>
 
