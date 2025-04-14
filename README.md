@@ -28,9 +28,7 @@ If this repository has been helpful to you, please consider giving it a ⭐️ t
 
 We have meticulously assembled a compendium of preeminent optimizers from the recent scholarly landscape, complemented by lucid roadmaps and pedagogical tutorial notebooks. Our insights, garnered from active engagement in pertinent projects, further enrich this repository. We warmly welcome contributions to this project, including the latest optimizers, tutorial notebooks, or any other valuable resources that can benefit researchers in our community.
 
-We present a meticulously curated roadmap of optimizers, as depicted in the ![Optimizer's Roadmap](Fig/Awesome_optimizers.jpg)
-
-This roadmap is continuously updated to reflect the latest advancements. Should you identify any errors or omissions in this repository, please do not hesitate to open an issue or submit a pull request. Our ongoing survey is in the process of being updated, and this represents the most current iteration.
+Should you identify any errors or omissions in this repository, please do not hesitate to open an issue or submit a pull request. Our ongoing survey is in the process of being updated, and this represents the most current iteration.
 
 For those seeking to explore the interconnections among relevant papers, we recommend utilizing [Connected Papers](https://www.connectedpapers.com/), a tool that visualizes the academic landscape through a graph representation. To export a paper's BibTeX citation, consult the paper's [arXiv](https://arxiv.org/) or [Semantic Scholar](https://www.semanticscholar.org/) entry for a professionally formatted reference.
 
@@ -86,12 +84,12 @@ Here is a list of some popular optimizers and their corresponding papers:
 | Prodigy | [Prodigy: An Expeditiously Adaptive Parameter-Free Learner](https://arxiv.org/abs/2306.06101) | 2024 | Prodigy is an adaptive, parameter-free optimizer that dynamically adjusts the learning rate by accurately estimating the distance to the optimal solution, significantly improving convergence speed and solution quality. |
 | Adam-mini | [Adam-mini: Use Fewer Learning Rates To Gain More](https://arxiv.org/abs/2406.16793) | 2024 | Reduces the number of learning rates; simplifies hyperparameter tuning. |
 | GALORE | [GALORE: Gradient Low-Rank Projection Training](https://arxiv.org/abs/2403.03507) | 2024 | Projects gradients to low-rank subspaces with dynamic switching; memory-efficient. |
-| SOAP | [SOAP: Efficient Stochastic Optimization of the Second-Order Loss](https://arxiv.org/abs/2409.11321) | 2025 | Shampoo/Adafactor hybrid that runs AdamW in Shampoo's eigenbasis. |
-| SPAM | [SPAM: Spike-Aware Momentum Optimization](https://arxiv.org/abs/2501.06842) | 2025 | Moment resetting + spike-aware clipping + sparse momentum. |
 | SWAN | [SWAN: State-Free Learning for Deep Neural Networks](https://arxiv.org/pdf/2412.13148) | 2024 | No optimizer state storage; scales additively (small models) or multiplicatively (large models). |
 | APOLLO | [APOLLO: Memory-Efficient Optimization via Low-Rank Gradient Approximation](https://arxiv.org/abs/2412.05270) | 2024 | Low-rank gradient projection with diagonal scaling. |
 | AdEMAMix | [AdEMAMix: Adaptive EMA Momentum for Deep Learning](https://arxiv.org/abs/2409.03137) | 2024 | Dual EMA system balances recent/historical gradients. |
 | Muon | [Muon: Orthogonal Weight Updates via Newton-Schulz Iteration](https://arxiv.org/abs/2502.16982) | 2024 | Orthogonalizes gradient momentum via Newton-Schulz. |
+| SOAP | [SOAP: Efficient Stochastic Optimization of the Second-Order Loss](https://arxiv.org/abs/2409.11321) | 2025 | Shampoo/Adafactor hybrid that runs AdamW in Shampoo's eigenbasis. |
+| SPAM | [SPAM: Spike-Aware Momentum Optimization](https://arxiv.org/abs/2501.06842) | 2025 | Moment resetting + spike-aware clipping + sparse momentum. |
 </details>
 
 ## Optimizer Paradigm Definition
